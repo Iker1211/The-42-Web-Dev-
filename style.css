@@ -22,9 +22,8 @@
     height: auto;
   }
 
-  .img-fluid {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+  .container {
+    padding: 1rem;
   }
 
 /* Estilo de tabla Bootstrap */
