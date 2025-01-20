@@ -30,7 +30,7 @@
             
             <!-- "The 42" text -->
             <text
-                x="90"
+                x="-90"
                 y="50"
                 font-family="var(--font-family)"
                 font-size="40"
@@ -39,7 +39,7 @@
                 text-anchor="start"
                 dominant-baseline="middle"
             >
-                The 42 Resources
+                The 42
             </text>
         </svg>
 </svg>
