@@ -26,7 +26,7 @@
 
         <svg width="600" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
             <!-- Yellow circle -->
-            <circle cx="-60" cy="40" r="20" fill="var(--yellow)" />
+            <circle cx="-80" cy="40" r="20" fill="var(--yellow)" />
             
             <!-- "The 42" text -->
             <text
