@@ -30,6 +30,7 @@
 /* Estilo de tabla Bootstrap */
 .table {
   margin: auto;
+  margin-top: 1rem;
   width: 75%;
   margin-bottom: 1rem;
   color: #212529;
