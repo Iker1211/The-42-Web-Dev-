@@ -31,7 +31,7 @@
             <!-- "The 42" text -->
             <text
                 x="-50"
-                y="40"
+                y="50"
                 font-family="var(--font-family)"
                 font-size="40"
                 font-weight="bold"
